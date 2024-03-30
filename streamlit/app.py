@@ -20,9 +20,9 @@ def predict_valuation(df,name,model):
     # print(name,'valuation: ', result[0])
 
 def main():
-    df = pd.read_csv('../data/all_stats.csv')
+    df = pd.read_csv('./data/all_stats.csv')
     
-    with open('../model.pkl', 'rb') as file:
+    with open('./model/model.pkl', 'rb') as file:
         model = pickle.load(file)
     # Title of the web app
     st.title("Player Recommendation")
@@ -35,7 +35,7 @@ def main():
     filtered_df = df[df['Team'] == selected_team]
     input_player = st.selectbox("Select a Player", filtered_df['Player'])
     
-    similarity_matrix = np.loadtxt('../data/player_similarity.csv', delimiter=',')
+    similarity_matrix = np.loadtxt('./data/player_similarity.csv', delimiter=',')
  
     # print(f"Players similar to {input_player}: {similar_players}")
 
