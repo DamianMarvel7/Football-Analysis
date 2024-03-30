@@ -7,7 +7,7 @@ This project focuses on conducting comprehensive data analysis on football playe
 1. **Data Scraping**: Scraping data from multiple websites including TransferMarkt and FBRef to gather comprehensive player statistics and market information.
 2. **Data Cleaning and Merging**: Cleaning the scraped data to ensure consistency and accuracy, followed by merging relevant tables to create a unified dataset for analysis.
 3. **Data Analysis**: Performing in-depth analysis on player statistics to identify key performance indicators and trends that can influence player valuation and potential.
-4. **Data Visualization**: Creating a dashboard to show key performance indicators using Tableau [Premier League Dashboard](https://public.tableau.com/views/PremierLeagueDashboard_17114368574660/PremierLeagueDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+4. **Data Visualization**: Creating a dashboard to show key performance indicators using Tableau. [Premier League Dashboard](https://public.tableau.com/views/PremierLeagueDashboard_17114368574660/PremierLeagueDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 5. **Recommendation System**: Utilizing cosine similarity to recommend similar players based on selected criteria, aiding decision-making in player acquisitions.
 6. **Market Value Prediction**: Implementing machine learning algorithms to predict the market value of players based on their performance metrics and market trends.
