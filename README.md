@@ -27,6 +27,7 @@ This project focuses on conducting comprehensive data analysis on football playe
 ```bash
 streamlit run streamlit/app.py
 ```
+You can access the Streamlit app [here](https://premierleaguerecommend.streamlit.app/).
 
 ## Future Improvements
 - There are numerous additional statistics that could be incorporated for analysis and machine learning purposes.
