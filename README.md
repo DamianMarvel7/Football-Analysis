@@ -11,23 +11,27 @@ This project focuses on conducting comprehensive data analysis on football playe
 5. **Market Value Prediction**: Implementing machine learning algorithms to predict the market value of players based on their performance metrics and market trends.
 
 ## Repository Structure
+- `analysis/`: Jupyter notebooks detailing the analysis and recommendation similar players.
 - `data/`: Contains the raw and processed datasets.
-- `notebooks/`: Jupyter notebooks detailing the data scraping, cleaning, analysis, and prediction processes.
-- `scripts/`: Scripts for data scraping and cleaning procedures.
 - `models/`: Saved machine learning models for market value prediction.
-- `reports/`: Detailed reports and visualizations summarizing the analysis findings.
+- `scraping and preprocessing/`: Jupyter notebooks detailing the data scraping and cleaning.
+- `valuation/`: Jupyter notebooks detailing the predicting valuation using machine learning.
+- `streamlit/`: Code to make streamlit.
 - `README.md`: Comprehensive documentation detailing project overview, processes, and instructions.
 
 ## Usage
 1. Clone the repository.
 2. Install the required dependencies listed in `requirements.txt`.
-3. Execute the provided scripts or explore the Jupyter notebooks to understand the data processing and analysis procedures.
-4. Utilize the recommendation system and market value prediction models for player evaluation and decision-making.
+3. In the main folder, run the following command in your terminal:
+
+```bash
+streamlit run streamlit/app.py
+```
 
 ## Future Improvements
-- Integration of additional data sources for enhanced analysis.
-- Implementation of advanced machine learning algorithms for more accurate market value predictions.
-- Development of a user-friendly web interface for easy access and interaction with the analysis results.
+- There are numerous additional statistics that could be incorporated for analysis and machine learning purposes.
+- The RMSE (Root Mean Square Error) outcome is notably poor, typically ranging between 15-18.
+- Furthermore, the training dataset utilized for predicting player valuations comprises only the top 100 highest-valued players in the Premier League. This limitation is problematic as the model may only accurately predict valuations within the range of the top 100 players. Additionally, it's observed that the model consistently overvalues players who, in reality, possess lower valuations.
 
 ## Acknowledgements
 Special thanks to TransferMarkt and FBRef for providing valuable football player statistics.
