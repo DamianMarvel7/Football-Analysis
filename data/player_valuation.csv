@@ -1,0 +1,101 @@
+#,Player,Nat.,Age,Club,Highest value in career,Last update,Market value
+0,1.0,Erling Haaland Centre-Forward,,23.0,,€180.00m,"Dec 19, 2023",€180.00m
+1,2.0,Phil Foden Right Winger,,23.0,,€130.00m,"Mar 14, 2024",€130.00m
+2,3.0,Bukayo Saka Right Winger,,22.0,,€130.00m,"Mar 14, 2024",€130.00m
+3,4.0,Declan Rice Defensive Midfield,,25.0,,€110.00m,"Dec 19, 2023",€110.00m
+4,5.0,Rodri Defensive Midfield,,27.0,,€110.00m,"Dec 19, 2023",€110.00m
+5,6.0,Martin Ødegaard Attacking Midfield,,25.0,,€95.00m,"Mar 14, 2024",€95.00m
+6,7.0,Julián Álvarez Second Striker,,24.0,,€90.00m,"Dec 19, 2023",€90.00m
+7,8.0,Bruno Guimarães Defensive Midfield,,26.0,,€85.00m,"Dec 19, 2023",€85.00m
+8,9.0,Enzo Fernández Central Midfield,,23.0,,€85.00m,"Dec 19, 2023",€80.00m
+9,10.0,William Saliba Centre-Back,,23.0,,€80.00m,"Mar 14, 2024",€80.00m
+10,11.0,Bernardo Silva Attacking Midfield,,29.0,,€100.00m,"Dec 19, 2023",€80.00m
+11,12.0,Moisés Caicedo Defensive Midfield,,22.0,,€90.00m,"Mar 14, 2024",€80.00m
+12,13.0,Rúben Dias Centre-Back,,26.0,,€80.00m,"Dec 19, 2023",€80.00m
+13,14.0,Gabriel Martinelli Left Winger,,22.0,,€85.00m,"Mar 14, 2024",€80.00m
+14,15.0,Luis Díaz Left Winger,,27.0,,€75.00m,"Dec 19, 2023",€75.00m
+15,16.0,Josko Gvardiol Centre-Back,,22.0,,€80.00m,"Mar 14, 2024",€75.00m
+16,17.0,Dominik Szoboszlai Central Midfield,,23.0,,€75.00m,"Dec 19, 2023",€75.00m
+17,18.0,Douglas Luiz Central Midfield,,25.0,,€70.00m,"Mar 14, 2024",€70.00m
+18,19.0,Bruno Fernandes Attacking Midfield,,29.0,,€90.00m,"Dec 19, 2023",€70.00m
+19,20.0,James Maddison Attacking Midfield,,27.0,,€70.00m,"Dec 19, 2023",€70.00m
+20,21.0,Gabriel Jesus Centre-Forward,,26.0,,€80.00m,"Dec 19, 2023",€70.00m
+21,22.0,Christopher Nkunku Attacking Midfield,,26.0,,€80.00m,"Mar 14, 2024",€70.00m
+22,23.0,Alexis Mac Allister Central Midfield,,25.0,,€70.00m,"Mar 14, 2024",€70.00m
+23,24.0,Alexander Isak Centre-Forward,,24.0,,€70.00m,"Dec 19, 2023",€70.00m
+24,25.0,Darwin Núñez Centre-Forward,,24.0,,€70.00m,"Mar 14, 2024",€70.00m
+25,26.0,Trent Alexander-Arnold Right-Back,,25.0,,€110.00m,"Dec 19, 2023",€70.00m
+26,27.0,Gabriel Magalhães Centre-Back,,26.0,,€65.00m,"Mar 14, 2024",€65.00m
+27,28.0,Jack Grealish Left Winger,,28.0,,€100.00m,"Mar 14, 2024",€65.00m
+28,29.0,Mohamed Salah Right Winger,,31.0,,€150.00m,"Dec 19, 2023",€65.00m
+29,30.0,Ollie Watkins Centre-Forward,,28.0,,€65.00m,"Mar 14, 2024",€65.00m
+30,31.0,Jérémy Doku Left Winger,,21.0,,€65.00m,"Dec 19, 2023",€65.00m
+31,32.0,Lucas Paquetá Attacking Midfield,,26.0,,€65.00m,"Dec 19, 2023",€65.00m
+32,33.0,Rasmus Højlund Centre-Forward,,21.0,,€65.00m,"Dec 19, 2023",€65.00m
+33,34.0,Evan Ferguson Centre-Forward,,19.0,,€65.00m,"Mar 14, 2024",€60.00m
+34,35.0,Kai Havertz Attacking Midfield,,24.0,,€90.00m,"Mar 14, 2024",€60.00m
+35,36.0,Marcus Rashford Left Winger,,26.0,,€85.00m,"Mar 14, 2024",€60.00m
+36,37.0,Kevin De Bruyne Attacking Midfield,,32.0,,€150.00m,"Dec 19, 2023",€60.00m
+37,38.0,Cristian Romero Centre-Back,,25.0,,€65.00m,"Mar 14, 2024",€60.00m
+38,39.0,Cole Palmer Attacking Midfield,,21.0,,€55.00m,"Mar 14, 2024",€55.00m
+39,40.0,Moussa Diaby Right Winger,,24.0,,€60.00m,"Mar 14, 2024",€55.00m
+40,41.0,Pedro Neto Right Winger,,24.0,,€55.00m,"Mar 14, 2024",€55.00m
+41,42.0,Ben White Right-Back,,26.0,,€55.00m,"Dec 19, 2023",€55.00m
+42,43.0,João Palhinha Defensive Midfield,,28.0,,€60.00m,"Mar 14, 2024",€55.00m
+43,44.0,Dejan Kulusevski Right Winger,,23.0,,€55.00m,"Dec 19, 2023",€55.00m
+44,45.0,Matheus Nunes Central Midfield,,25.0,,€55.00m,"Mar 14, 2024",€50.00m
+45,46.0,Mohammed Kudus Attacking Midfield,,23.0,,€50.00m,"Mar 14, 2024",€50.00m
+46,47.0,Anthony Gordon Left Winger,,23.0,,€50.00m,"Dec 19, 2023",€50.00m
+47,48.0,Heung-min Son Left Winger,,31.0,,€90.00m,"Dec 19, 2023",€50.00m
+48,49.0,Diogo Jota Left Winger,,27.0,,€60.00m,"Dec 19, 2023",€50.00m
+49,50.0,Ivan Toney Centre-Forward,,28.0,,€50.00m,"Mar 14, 2024",€50.00m
+50,51.0,Amadou Onana Defensive Midfield,,22.0,,€50.00m,"Dec 19, 2023",€50.00m
+51,52.0,Levi Colwill Centre-Back,,21.0,,€55.00m,"Mar 14, 2024",€50.00m
+52,53.0,Reece James Right-Back,,24.0,,€70.00m,"Dec 19, 2023",€50.00m
+53,54.0,Michael Olise Right Winger,,22.0,,€50.00m,"Dec 19, 2023",€50.00m
+54,55.0,Micky van de Ven Centre-Back,,22.0,,€50.00m,"Mar 14, 2024",€50.00m
+55,56.0,Cody Gakpo Left Winger,,24.0,,€60.00m,"Dec 19, 2023",€50.00m
+56,57.0,Jarrod Bowen Right Winger,,27.0,,€50.00m,"Dec 19, 2023",€50.00m
+57,58.0,Conor Gallagher Central Midfield,,24.0,,€48.00m,"Mar 14, 2024",€48.00m
+58,59.0,Eberechi Eze Attacking Midfield,,25.0,,€48.00m,"Dec 19, 2023",€48.00m
+59,60.0,Brennan Johnson Right Winger,,22.0,,€48.00m,"Dec 19, 2023",€48.00m
+60,61.0,Pedro Porro Right-Back,,24.0,,€45.00m,"Dec 19, 2023",€45.00m
+61,62.0,Kaoru Mitoma Left Winger,,26.0,,€50.00m,"Mar 14, 2024",€45.00m
+62,63.0,Ibrahima Konaté Centre-Back,,24.0,,€45.00m,"Mar 14, 2024",€45.00m
+63,64.0,Destiny Udogie Left-Back,,21.0,,€45.00m,"Mar 14, 2024",€45.00m
+64,65.0,Lisandro Martínez Centre-Back,,26.0,,€50.00m,"Mar 14, 2024",€45.00m
+65,66.0,Pau Torres Centre-Back,,27.0,,€50.00m,"Dec 19, 2023",€45.00m
+66,67.0,Sven Botman Centre-Back,,24.0,,€45.00m,"Dec 19, 2023",€45.00m
+67,68.0,João Pedro Centre-Forward,,22.0,,€45.00m,"Mar 14, 2024",€45.00m
+68,69.0,Raheem Sterling Left Winger,,29.0,,€160.00m,"Dec 19, 2023",€45.00m
+69,70.0,Joelinton Central Midfield,,27.0,,€42.00m,"Dec 19, 2023",€42.00m
+70,71.0,Jacob Ramsey Attacking Midfield,,22.0,,€42.00m,"Dec 19, 2023",€42.00m
+71,72.0,Matheus Cunha Centre-Forward,,24.0,,€42.00m,"Mar 14, 2024",€42.00m
+72,73.0,Oleksandr Zinchenko Left-Back,,27.0,,€42.00m,"Dec 19, 2023",€42.00m
+73,74.0,Manuel Akanji Centre-Back,,28.0,,€42.00m,"Dec 19, 2023",€42.00m
+74,75.0,Axel Disasi Centre-Back,,26.0,,€42.00m,"Dec 19, 2023",€42.00m
+75,76.0,Mason Mount Attacking Midfield,,25.0,,€75.00m,"Mar 14, 2024",€40.00m
+76,77.0,Ederson Goalkeeper,,30.0,,€70.00m,"Dec 19, 2023",€40.00m
+77,78.0,Alejandro Garnacho Left Winger,,19.0,,€40.00m,"Mar 14, 2024",€40.00m
+78,79.0,Jurrien Timber Centre-Back,,22.0,,€45.00m,"Dec 19, 2023",€40.00m
+79,80.0,Richarlison Centre-Forward,,26.0,,€65.00m,"Mar 14, 2024",€40.00m
+80,81.0,Nathan Aké Centre-Back,,29.0,,€42.00m,"Dec 19, 2023",€40.00m
+81,82.0,Sandro Tonali Defensive Midfield,,23.0,,€60.00m,"Dec 19, 2023",€40.00m
+82,83.0,Roméo Lavia Defensive Midfield,,20.0,,€50.00m,"Mar 14, 2024",€40.00m
+83,84.0,André Onana Goalkeeper,,27.0,,€45.00m,"Dec 19, 2023",€40.00m
+84,85.0,Morgan Gibbs-White Attacking Midfield,,24.0,,€40.00m,"Dec 19, 2023",€40.00m
+85,86.0,Pape Matar Sarr Central Midfield,,21.0,,€40.00m,"Mar 14, 2024",€40.00m
+86,87.0,John Stones Centre-Back,,29.0,,€60.00m,"Dec 19, 2023",€38.00m
+87,88.0,Boubacar Kamara Defensive Midfield,,24.0,,€38.00m,"Dec 19, 2023",€38.00m
+88,89.0,Nayef Aguerd Centre-Back,,27.0,,€38.00m,"Dec 19, 2023",€38.00m
+89,90.0,Leandro Trossard Left Winger,,29.0,,€38.00m,"Dec 19, 2023",€38.00m
+90,91.0,Rico Lewis Right-Back,,19.0,,€38.00m,"Dec 19, 2023",€38.00m
+91,92.0,Marc Guéhi Centre-Back,,23.0,,€38.00m,"Dec 19, 2023",€38.00m
+92,93.0,Bryan Mbeumo Right Winger,,24.0,,€38.00m,"Dec 19, 2023",€38.00m
+93,94.0,Ryan Gravenberch Central Midfield,,21.0,,€35.00m,"Dec 19, 2023",€35.00m
+94,95.0,Joachim Andersen Centre-Back,,27.0,,€35.00m,"Dec 19, 2023",€35.00m
+95,96.0,Harvey Barnes Left Winger,,26.0,,€35.00m,"Dec 19, 2023",€35.00m
+96,97.0,Mykhaylo Mudryk Left Winger,,23.0,,€60.00m,"Mar 14, 2024",€35.00m
+97,98.0,Diogo Dalot Right-Back,,25.0,,€40.00m,"Dec 19, 2023",€35.00m
+98,99.0,Dominic Solanke Centre-Forward,,26.0,,€35.00m,"Mar 14, 2024",€35.00m
+99,100.0,Joe Willock Central Midfield,,24.0,,€38.00m,"Dec 19, 2023",€35.00m

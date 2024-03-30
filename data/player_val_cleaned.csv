@@ -1,0 +1,101 @@
+,#,Player,Nat.,Age,Club,Highest value in career,Last update,Market value
+0,1,Erling Haaland,,23,,€180.00m,"Dec 19, 2023",€180.00m
+1,2,Phil Foden,,23,,€130.00m,"Mar 14, 2024",€130.00m
+2,3,Bukayo Saka,,22,,€130.00m,"Mar 14, 2024",€130.00m
+3,4,Declan Rice,,25,,€110.00m,"Dec 19, 2023",€110.00m
+4,5,Rodri,,27,,€110.00m,"Dec 19, 2023",€110.00m
+5,6,Martin Ødegaard,,25,,€95.00m,"Mar 14, 2024",€95.00m
+6,7,Julián Álvarez,,24,,€90.00m,"Dec 19, 2023",€90.00m
+7,8,Bruno Guimarães,,26,,€85.00m,"Dec 19, 2023",€85.00m
+8,9,Enzo Fernández,,23,,€85.00m,"Dec 19, 2023",€80.00m
+9,10,William Saliba,,23,,€80.00m,"Mar 14, 2024",€80.00m
+10,11,Bernardo Silva,,29,,€100.00m,"Dec 19, 2023",€80.00m
+11,12,Moisés Caicedo,,22,,€90.00m,"Mar 14, 2024",€80.00m
+12,13,Rúben Dias,,26,,€80.00m,"Dec 19, 2023",€80.00m
+13,14,Gabriel Martinelli,,22,,€85.00m,"Mar 14, 2024",€80.00m
+14,15,Luis Díaz,,27,,€75.00m,"Dec 19, 2023",€75.00m
+15,16,Joško Gvardiol,,22,,€80.00m,"Mar 14, 2024",€75.00m
+16,17,Dominik Szoboszlai,,23,,€75.00m,"Dec 19, 2023",€75.00m
+17,18,Douglas Luiz,,25,,€70.00m,"Mar 14, 2024",€70.00m
+18,19,Bruno Fernandes,,29,,€90.00m,"Dec 19, 2023",€70.00m
+19,20,James Maddison,,27,,€70.00m,"Dec 19, 2023",€70.00m
+20,21,Gabriel Jesus,,26,,€80.00m,"Dec 19, 2023",€70.00m
+21,22,Christopher Nkunku,,26,,€80.00m,"Mar 14, 2024",€70.00m
+22,23,Alexis Mac Allister,,25,,€70.00m,"Mar 14, 2024",€70.00m
+23,24,Alexander Isak,,24,,€70.00m,"Dec 19, 2023",€70.00m
+24,25,Darwin Núñez,,24,,€70.00m,"Mar 14, 2024",€70.00m
+25,26,Trent Alexander-Arnold,,25,,€110.00m,"Dec 19, 2023",€70.00m
+26,27,Gabriel Dos Santos,,26,,€65.00m,"Mar 14, 2024",€65.00m
+27,28,Jack Grealish,,28,,€100.00m,"Mar 14, 2024",€65.00m
+28,29,Mohamed Salah,,31,,€150.00m,"Dec 19, 2023",€65.00m
+29,30,Ollie Watkins,,28,,€65.00m,"Mar 14, 2024",€65.00m
+30,31,Jeremy Doku,,21,,€65.00m,"Dec 19, 2023",€65.00m
+31,32,Lucas Paquetá,,26,,€65.00m,"Dec 19, 2023",€65.00m
+32,33,Rasmus Højlund,,21,,€65.00m,"Dec 19, 2023",€65.00m
+33,34,Evan Ferguson,,19,,€65.00m,"Mar 14, 2024",€60.00m
+34,35,Kai Havertz,,24,,€90.00m,"Mar 14, 2024",€60.00m
+35,36,Marcus Rashford,,26,,€85.00m,"Mar 14, 2024",€60.00m
+36,37,Kevin De Bruyne,,32,,€150.00m,"Dec 19, 2023",€60.00m
+37,38,Cristian Romero,,25,,€65.00m,"Mar 14, 2024",€60.00m
+38,39,Cole Palmer,,21,,€55.00m,"Mar 14, 2024",€55.00m
+39,40,Moussa Diaby,,24,,€60.00m,"Mar 14, 2024",€55.00m
+40,41,Pedro Neto,,24,,€55.00m,"Mar 14, 2024",€55.00m
+41,42,Ben White,,26,,€55.00m,"Dec 19, 2023",€55.00m
+42,43,João Palhinha,,28,,€60.00m,"Mar 14, 2024",€55.00m
+43,44,Dejan Kulusevski,,23,,€55.00m,"Dec 19, 2023",€55.00m
+44,45,Matheus Nunes,,25,,€55.00m,"Mar 14, 2024",€50.00m
+45,46,Kudus Mohammed,,23,,€50.00m,"Mar 14, 2024",€50.00m
+46,47,Anthony Gordon,,23,,€50.00m,"Dec 19, 2023",€50.00m
+47,48,Son Heung-min,,31,,€90.00m,"Dec 19, 2023",€50.00m
+48,49,Diogo Jota,,27,,€60.00m,"Dec 19, 2023",€50.00m
+49,50,Ivan Toney,,28,,€50.00m,"Mar 14, 2024",€50.00m
+50,51,Amadou Onana,,22,,€50.00m,"Dec 19, 2023",€50.00m
+51,52,Levi Colwill,,21,,€55.00m,"Mar 14, 2024",€50.00m
+52,53,Reece James,,24,,€70.00m,"Dec 19, 2023",€50.00m
+53,54,Michael Olise,,22,,€50.00m,"Dec 19, 2023",€50.00m
+54,55,Micky van de Ven,,22,,€50.00m,"Mar 14, 2024",€50.00m
+55,56,Cody Gakpo,,24,,€60.00m,"Dec 19, 2023",€50.00m
+56,57,Jarrod Bowen,,27,,€50.00m,"Dec 19, 2023",€50.00m
+57,58,Conor Gallagher,,24,,€48.00m,"Mar 14, 2024",€48.00m
+58,59,Eberechi Eze,,25,,€48.00m,"Dec 19, 2023",€48.00m
+59,60,Brennan Johnson,,22,,€48.00m,"Dec 19, 2023",€48.00m
+60,61,Pedro Porro,,24,,€45.00m,"Dec 19, 2023",€45.00m
+61,62,Kaoru Mitoma,,26,,€50.00m,"Mar 14, 2024",€45.00m
+62,63,Ibrahima Konaté,,24,,€45.00m,"Mar 14, 2024",€45.00m
+63,64,Destiny Udogie,,21,,€45.00m,"Mar 14, 2024",€45.00m
+64,65,Lisandro Martínez,,26,,€50.00m,"Mar 14, 2024",€45.00m
+65,66,Pau Torres,,27,,€50.00m,"Dec 19, 2023",€45.00m
+66,67,Sven Botman,,24,,€45.00m,"Dec 19, 2023",€45.00m
+67,68,João Pedro,,22,,€45.00m,"Mar 14, 2024",€45.00m
+68,69,Raheem Sterling,,29,,€160.00m,"Dec 19, 2023",€45.00m
+69,70,Joelinton,,27,,€42.00m,"Dec 19, 2023",€42.00m
+70,71,Jacob Ramsey,,22,,€42.00m,"Dec 19, 2023",€42.00m
+71,72,Matheus Cunha,,24,,€42.00m,"Mar 14, 2024",€42.00m
+72,73,Oleksandr Zinchenko,,27,,€42.00m,"Dec 19, 2023",€42.00m
+73,74,Manuel Akanji,,28,,€42.00m,"Dec 19, 2023",€42.00m
+74,75,Axel Disasi,,26,,€42.00m,"Dec 19, 2023",€42.00m
+75,76,Mason Mount,,25,,€75.00m,"Mar 14, 2024",€40.00m
+76,77,Ederson,,30,,€70.00m,"Dec 19, 2023",€40.00m
+77,78,Alejandro Garnacho,,19,,€40.00m,"Mar 14, 2024",€40.00m
+78,79,Jurriën Timber,,22,,€45.00m,"Dec 19, 2023",€40.00m
+79,80,Richarlison,,26,,€65.00m,"Mar 14, 2024",€40.00m
+80,81,Nathan Aké,,29,,€42.00m,"Dec 19, 2023",€40.00m
+81,82,Sandro Tonali,,23,,€60.00m,"Dec 19, 2023",€40.00m
+82,83,Roméo Lavia,,20,,€50.00m,"Mar 14, 2024",€40.00m
+83,84,André Onana,,27,,€45.00m,"Dec 19, 2023",€40.00m
+84,85,Morgan Gibbs-White,,24,,€40.00m,"Dec 19, 2023",€40.00m
+85,86,Pape Matar Sarr,,21,,€40.00m,"Mar 14, 2024",€40.00m
+86,87,John Stones,,29,,€60.00m,"Dec 19, 2023",€38.00m
+87,88,Boubacar Kamara,,24,,€38.00m,"Dec 19, 2023",€38.00m
+88,89,Nayef Aguerd,,27,,€38.00m,"Dec 19, 2023",€38.00m
+89,90,Leandro Trossard,,29,,€38.00m,"Dec 19, 2023",€38.00m
+90,91,Rico Lewis,,19,,€38.00m,"Dec 19, 2023",€38.00m
+91,92,Marc Guéhi,,23,,€38.00m,"Dec 19, 2023",€38.00m
+92,93,Bryan Mbeumo,,24,,€38.00m,"Dec 19, 2023",€38.00m
+93,94,Ryan Gravenberch,,21,,€35.00m,"Dec 19, 2023",€35.00m
+94,95,Joachim Andersen,,27,,€35.00m,"Dec 19, 2023",€35.00m
+95,96,Harvey Barnes,,26,,€35.00m,"Dec 19, 2023",€35.00m
+96,97,Mykhailo Mudryk,,23,,€60.00m,"Mar 14, 2024",€35.00m
+97,98,Diogo Dalot,,25,,€40.00m,"Dec 19, 2023",€35.00m
+98,99,Dominic Solanke,,26,,€35.00m,"Mar 14, 2024",€35.00m
+99,100,Joe Willock,,24,,€38.00m,"Dec 19, 2023",€35.00m
